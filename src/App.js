@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Branch update
+          Final Update
         </a>
       </header>
     </div>
